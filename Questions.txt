@@ -1,0 +1,9 @@
+1) Qu'est-ce que Git ? Git est un logiciel qui permet aux développeurs de sauvegarder leurs projets au fil du temps tandis que GitHub integre Git afin de pouvoir utilisés ses fichiers en collaboration 
+
+2) Qu'est-ce qu'un Repository ? C'est un système de dépôt de fichier
+
+3) Qu'est ce que le commit / Un push / Un pull ? Un commit enregistre les modifications apportées à un ou plusieurs fichiers du dépôt / Le push permet de déposer ses fichiers sur le dépôt (Repo) / Le pull permet de télécharger les fichiers stockés dans un repo et de les avoirs localement sur sa propre machine
+
+4) Le fichier README.md permet au utilisateurs qui arrivent sur le repo de comprendre la structure du projet, c'est comme une présentation ou une explication simplifié du projet. Cela aide les utilisateurs a comprendre et contribue au attentes du projet.
+
+5) On récupère les fichiers d'un repo github a l'aide de la commande git clone
