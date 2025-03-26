@@ -1,6 +1,6 @@
 <?php
 session_start();
-if(!isset($_SESSION['panier'])){      //si $_SESSION['panier'] n'existe pas !
+if(!isset($_SESSION['panier'])){      //si $_SESSION['panier'] n'existe pas !!!
 $_SESSION['panier']=array();		  //Je crée les variables
 $_SESSION['panier']['nom'] = array();
 $_SESSION['panier']['prix'] = array();
